@@ -1,0 +1,104 @@
+# React Native
+node_modules/
+ios/Pods/
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.xcuserdata/
+*.lock/
+*.log
+*.keystore
+*.gradle
+android/.gradle
+android/app/build/
+android/build/
+*.iml
+
+# macOS
+.DS_Store
+*.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserdatad
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/*
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Android/IntelliJ
+build/
+.idea/
+.gradle/
+local.properties
+app/*.iml
+*.hprof
+*.orig
+*.log
+*.bak
+*.swp
+*.swm
+*.class
+*.project
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+out/
+
+# BUCK
+buck-out/
+.buckconfig.local
+.buckd/
+.buckversion
+buck-out/
+
+# fastlane
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+*/fastlane/test_output
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Emacs
+*~ 
+\#*\#
+.\#*
+*.un~
+*.swp
+*~
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Gradle files
+gradle-wrapper.jar
+node_modules
